@@ -1,0 +1,10 @@
+/* Blarg! */
+
+$homebrewChannelBlue: #4a9bb9;
+$darkerBlue: darken($homebrewChannelBlue, 15%);
+$lightBlue: lighten($homebrewChannelBlue, 15%);
+
+body {
+    background-color: $homebrewChannelBlue;
+    color: $darkerBlue;
+}
